@@ -1,3 +1,2 @@
 # Cinema-Booking-System
-Cinema Booking System Project using SQL.
-This is a beginner level project in SQL.
+This repository includes my learnings for MySQL along with the projects.
