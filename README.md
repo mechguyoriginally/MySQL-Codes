@@ -1,5 +1,5 @@
 # 
-This repository includes my learnings for MySQL along with the projects.
+This repository includes my learnings for MySQL along with the projects 7 dashboards.
 The code inside the files is in the order of decreasing complexity as you go down.
 
 Projects:
